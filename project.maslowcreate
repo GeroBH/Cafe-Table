@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Shifted Cylinder",
-            "x": 466,
-            "y": 55,
+            "x": 461,
+            "y": 142,
             "uniqueID": 761197,
             "ioValues": [
                 {
@@ -296,8 +296,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Shifted Cylinder",
-                    "x": 466,
-                    "y": 55,
+                    "x": 461,
+                    "y": 142,
                     "uniqueID": 761197,
                     "ioValues": [
                         {
